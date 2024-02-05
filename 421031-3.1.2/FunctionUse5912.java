@@ -1,0 +1,6 @@
+import org.apache.hadoop.security.proto.SecurityProtos.CredentialsKVProto.Builder;
+public class FunctionUse5912 {
+public void funcUse() {
+Builder builder = new Builder();
+}
+}
